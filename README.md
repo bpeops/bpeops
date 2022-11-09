@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bpeops
-- 👀 I’m interested in Biomecahanics and Thermogrophy
+- 👀 I’m interested in Biomecahanics, Motor Control, and Thermography
 - 🌱 I’m currently learning R & MATLAB
 - 💞️ I’m looking to collaborate on not sure yet, check back at a later date.
 - 📫 How to reach me pplsbrand@gmail.com
