@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @bpeops
-- 👀 I’m interested in Biomecahanics, Motor Control, and Exercise Physiology
-- 🌱 I’m currently learning R & MATLAB
-- 💞️ I’m looking to collaborate on not sure yet, check back at a later date.
+- 👀 I’m interested in Biomecahanics, Motor Control, and Exercise Physiology.
 - 📫 How to reach me bmpeoples01@gmail.com
 
 <!---
